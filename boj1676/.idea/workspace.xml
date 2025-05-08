@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="68863309-6105-4d32-81c8-d904b67a9548" name="Changes" comment="팩토리얼 0의 개수 BigInteger클래스 사용방법" />
+    <list default="true" id="68863309-6105-4d32-81c8-d904b67a9548" name="Changes" comment="팩토리얼 0의 개수 BigInteger클래스 사용방법&#10;// 팩의 0의 개수는 2가 사용된 개수, 5가 사용된개수 중 min 값이다" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,21 +20,21 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "bpv834"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;bpv834&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/bpv834/BojStack.git",
-    "accountId": "e9fa3681-8cc3-4e27-8f0f-9cc17607af8f"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/bpv834/BojStack.git&quot;,
+    &quot;accountId&quot;: &quot;e9fa3681-8cc3-4e27-8f0f-9cc17607af8f&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 1
-}]]></component>
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
   <component name="ProjectId" id="2wns0069KltSiTz3xXLeLVW1ZcF" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -49,7 +49,8 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true"
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/tnsgh/IdeaProjects/code_plus_basic1/boj1676"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -69,11 +70,20 @@
       <option name="project" value="LOCAL" />
       <updated>1746689885103</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="팩토리얼 0의 개수 BigInteger클래스 사용방법&#10;// 팩의 0의 개수는 2가 사용된 개수, 5가 사용된개수 중 min 값이다">
+      <option name="closed" value="true" />
+      <created>1746702282922</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1746702282922</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="팩토리얼 0의 개수 BigInteger클래스 사용방법" />
-    <option name="LAST_COMMIT_MESSAGE" value="팩토리얼 0의 개수 BigInteger클래스 사용방법" />
+    <MESSAGE value="팩토리얼 0의 개수 BigInteger클래스 사용방법&#10;// 팩의 0의 개수는 2가 사용된 개수, 5가 사용된개수 중 min 값이다" />
+    <option name="LAST_COMMIT_MESSAGE" value="팩토리얼 0의 개수 BigInteger클래스 사용방법&#10;// 팩의 0의 개수는 2가 사용된 개수, 5가 사용된개수 중 min 값이다" />
   </component>
 </project>
